@@ -5,3 +5,5 @@
 /__pycache__/
 terraform.tfvars
 terraform/variables.tf
+terraform.tfvars
+terraform/variables.tf
